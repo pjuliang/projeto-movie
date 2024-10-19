@@ -1,7 +1,7 @@
 {
   "homepage": "https://pjuliang.github.io/projeto-movie",
   "name": "todos",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -12,10 +12,8 @@
   },
   "dependencies": {
     "gh-pages": "^6.2.0",
-    "movie_lib": "file:",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-hook": "^0.0.1",
     "react-icons": "^4.4.0",
     "react-router-dom": "^6.3.0"
   },
